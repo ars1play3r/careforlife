@@ -1,5 +1,9 @@
-body
-{
+*{
+   cursor: url(/cursors/ice_cream_progress.png) progress;
+   cursor: url(/cursors/ice_cream.png) default pointer;
+}
+
+body{
    background-color: #201E36;
    color: #000000;
    font-family: "Open Sans";
@@ -9,8 +13,7 @@ body
    margin: 0;
    padding: 0;
 }
-#wb_headerContainer
-{
+#wb_headerContainer{
    background-color: rgba(0,0,0,0.50);
    background-image: none;
    border: 0px solid #CCCCCC;
@@ -22,8 +25,7 @@ body
    z-index: 7777;
    width: 100%;
 }
-#headerContainer
-{
+#headerContainer{
    display: flex;
    padding: 10px 10px 10px 10px;
    flex-direction: row;
