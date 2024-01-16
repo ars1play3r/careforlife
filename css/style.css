@@ -1,6 +1,5 @@
 *{
-   cursor: url(/cursors/ice_cream_progress.png) progress;
-   cursor: url(/cursors/ice_cream.png) default pointer;
+   cursor: url(/cursors/ice_cream.png) default;
 }
 
 body{
