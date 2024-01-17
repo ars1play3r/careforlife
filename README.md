@@ -1,4 +1,4 @@
-![image](https://github.com/ars1play3r/ars1play3r.github.io/assets/154444191/eb4d2562-9382-40b5-9c6c-655fe2df70e4)<h1 align="center">Hi 👋, I'm José Adrian Pupo Montero</h1>
+<h1 align="center">Hi 👋, I'm José Adrian Pupo Montero</h1>
 <h3 align="center">A passionate FullStack-Developer from Cuba</h3>
 
 - 🔭 I’m currently working on **personal projects**
@@ -17,6 +17,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://ru.w3docs.com/uploads/media/book_gallery/0001/02/849d4286475e04155fd5f21861f16f53db95ac72.png" alt="HTML" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://github.com/ars1play3r/ars1play3r.github.io/assets/154444191/eb4d2562-9382-40b5-9c6c-655fe2df70e4" alt="HTML" width="40" height="40"/> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars1play3r&show_icons=true&locale=en&layout=compact" alt="ars1play3r" /></p>
