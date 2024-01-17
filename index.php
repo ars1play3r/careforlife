@@ -32,7 +32,7 @@
                <li role="menuitem" class="nav-item"><a class="nav-link" href="#teamLayoutGrid" target="_self"><i class="fa fa-people-group"></i>&nbsp;TEAM</a>               </li>
                <li role="menuitem" class="nav-item"><a class="nav-link" href="#collageFlexGrid" target="_self"><i class="fa fa-phone-square"></i>&nbsp;CONTACT</a>               </li>
                <li role="menuitem" class="nav-item"><a class="nav-link" href="#aboutLayoutGrid1" target="_self"><i class="fa fa-address-book"></i>&nbsp;ABOUT</a>               </li>
-               <li role="menuitem" class="nav-item"><a class="nav-link" href="login.html" target="_self"><i class="fa fa-regular fa-money-bill-1"></i>&nbsp;Sign Up</a>               </li>
+               <li role="menuitem" class="nav-item"><a class="nav-link" href="login.php" target="_self"><i class="fa fa-regular fa-money-bill-1"></i>&nbsp;Sign Up</a>               </li>
             </ul>
          </nav>
       </div>
@@ -147,7 +147,7 @@
                <div class="col-1-padding">
                   <div id="wb_featuresCard1" style="display:flex;width:100%;z-index:17;" class="card">
                      <div id="featuresCard1-card-body">
-                        <div id="featuresCard1-card-item0"><a href="index.html"><i class="fa fa-hand-holding-medical"></i></a></div>
+                        <div id="featuresCard1-card-item0"><a href="index.php"><i class="fa fa-hand-holding-medical"></i></a></div>
                         <div id="featuresCard1-card-item1">Creative Inspiration</div>
                         <div id="featuresCard1-card-item2">· Fine motor skills.<br>· Handwriting or computer skills.<br>. Eye-hand coordination<br>· Visual motor skills<br>· Self-care<br>· Dressing<br>· Brushing teeth, and self-feeding.<br>. Learn positive behaviors and social<br> skills <br>· Manage frustration and anger<br>· Sensory function<br>· Perceptual motor skills<br>· Reflexes integration</div>
                      </div>
@@ -158,7 +158,7 @@
                <div class="col-2-padding">
                   <div id="wb_featuresCard2" style="display:flex;width:100%;z-index:18;" class="card">
                      <div id="featuresCard2-card-body">
-                        <div id="featuresCard2-card-item0"><a href="index.html"><i class="fa fa-prescription-bottle-medical"></i></a></div>
+                        <div id="featuresCard2-card-item0"><a href="index.php"><i class="fa fa-prescription-bottle-medical"></i></a></div>
                         <div id="featuresCard2-card-item1">Physical Therapy</div>
                         <div id="featuresCard2-card-item2">. Range of motion<br>. Strength/ coordination<br>. Flexibility and movement<br>. .Needs for orthotics<br>· Gait<br>. Pain<br>. Balance<br>· Posture<br>· Endurance</div>
                      </div>
@@ -169,7 +169,7 @@
                <div class="col-3-padding">
                   <div id="wb_featuresCard3" style="display:flex;width:100%;z-index:19;" class="card">
                      <div id="featuresCard3-card-body">
-                        <div id="featuresCard3-card-item0"><a href="index.html"><i class="fa fa-house-medical-flag"></i></a></div>
+                        <div id="featuresCard3-card-item0"><a href="index.php"><i class="fa fa-house-medical-flag"></i></a></div>
                         <div id="featuresCard3-card-item1">We help children with issues <br>including:</div>
                         <div id="featuresCard3-card-item2">· Developmental delays<br>· ADHD<br>· Autism<br>· Genetic disorders, such as<br>Down syndrome<br>· Nerve/muscle conditions,<br>such as cerebral palsy<br>· Sensory processing<br>disorders<br>· Learning problems<br>· Muscle weakness/<br>imbalances<br>. Poor coordination and/or<br>motor planning.<br>. Poor ability to carry out a<br>motor act<br>. Birth injuries or birth<br>defects<br>· Recovery from sports- and<br>non-sports injuries<br>· Other chronic illnesses</div>
                      </div>
@@ -262,7 +262,7 @@
             <li><a role="menuitem" href="#teamLayoutGrid" class="headerMenu2-effect"><i class="fa fa-people-group overlay-icon"></i>&nbsp;TEAM</a></li>
             <li><a role="menuitem" href="#newsletterContainer" class="headerMenu2-effect"><i class="fa fa-phone-square overlay-icon"></i>&nbsp;CONTACT</a></li>
             <li><a role="menuitem" href="#aboutLayoutGrid1" class="headerMenu2-effect"><i class="fa fa-address-book overlay-icon"></i>&nbsp;ABOUT</a></li>
-            <li role="menuitem" class="nav-item"><a class="nav-link" href="login.html" target="_self"><i class="fa fa-regular fa-money-bill-1"></i>&nbsp;Sign Up</a>               </li>
+            <li role="menuitem" class="nav-item"><a class="nav-link" href="login.php" target="_self"><i class="fa fa-regular fa-money-bill-1"></i>&nbsp;Sign Up</a>               </li>
          </ul>
       </div>
       <a class="close-button" id="headerMenu2-close" href="#" role="button" aria-hidden="true"><span></span></a>
